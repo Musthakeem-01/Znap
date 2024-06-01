@@ -1,0 +1,8 @@
+*.zip
+pdf
+Excel
+/node_modules
+migration
+logs
+documents
+videos
